@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Yoyo 👋
+💻 Software Engineer Graduate
+📊: Aspiring Data Engineer | 🤖AI/ML Enthusiast
+
+
 
 <!--
 **Yoyo-Ae/Yoyo-Ae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
